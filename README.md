@@ -1,17 +1,3 @@
-# Table of Contents
-1. [Introduction](#intro)
-2. [Features](#features)
-3. [Installation](#install)  
-4. [Usage](#usage)
-5. [Rules](#rules)
-6. [Notes](#notes)
-7. [Troubleshooting](#trouble)
-8. [Contributing](#con)
-9. [Support](#support)
-10. [License](#license)  
-<br>
-<br>  
-
 # Rock-Paper-Scissors <a name="intro"></a>  
 Welcome to my simple Rock, Paper, & Scissors game
 
