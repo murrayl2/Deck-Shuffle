@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors <a name="intro"></a>  
+# Deck-Shuffling <a name="intro"></a>  
 Welcome to my simple Rock, Paper, & Scissors game
 
 The repository page can be found <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors">here.</a>
@@ -93,13 +93,9 @@ Feel free to submit a pull request!
 <br>  
 
 ## Support <a name="support"></a>  
-If there are any issues, email one of us at:
+If there are any issues you may email me at:
 
-brendeljd@appstate.edu (Joey Brendel)
-
-powellca1@appstate.edu (Charlie Powell)
-
-millertj6@appstate.edu (Troy Miller)  
+murrayl@appstate.edu  
 <br>  
 
 ## License <a name="license"></a>  
