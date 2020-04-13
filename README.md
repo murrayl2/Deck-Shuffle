@@ -73,17 +73,11 @@ The game continues until one player wins a "best of" for the amount of rounds en
 The winner of the game is displayed once the game is finished.  
 <br>  
 
-## Notes <a name="notes"></a>  
+## FAQ <a name="FAQ"></a>  
 * You can exit the game at any time by pressing CTRL-C and then Y.
 * The game starts from Step 1 upon finishing a game.
 * You can only play against the computer, which throws out a random move for each turn.
 * A simplified version of this readme file is included in the download.  
-<br>  
-
-## Troubleshooting <a name="trouble"></a>  
-Extracting the ZIP file requires either <a href="https://www.rarlab.com/download.htm">WinRAR</a> or <a href="https://www.7-zip.org">7Zip.</a>
-
-If the batch file fails to execute, you may need to update your java installation.  The most recent Java version can be found <a href="https://www.java.com/en/download">here.</a>  
 <br>  
 
 ## Contributing <a name="con"></a>  
