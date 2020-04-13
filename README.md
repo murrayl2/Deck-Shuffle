@@ -60,19 +60,6 @@ Computer: 0
 Continue entering throws until the game ends.  
 <br>  
 
-## Game Rules <a name="rules"></a>  
-
-<img src="https://www.wikihow.com/images/thumb/3/33/Play-Rock%2C-Paper%2C-Scissors-Step-5-Version-3.jpg/aid42597-v4-728px-Play-Rock%2C-Paper%2C-Scissors-Step-5-Version-3.jpg" alt="Basic game rules explanation">
-
-
-Rock beats scissors, scissors beats paper, and paper beats rock.  Nothing special here.
-
-The game cannot be played with an even amount of rounds.
-
-The game continues until one player wins a "best of" for the amount of rounds entered (excluding ties).
-The winner of the game is displayed once the game is finished.  
-<br>  
-
 ## FAQ <a name="FAQ"></a>  
 * You can exit the game at any time by pressing CTRL-C and then Y.
 * The game starts from Step 1 upon finishing a game.
