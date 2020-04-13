@@ -20,17 +20,17 @@ The code my be downloaded <a href="https://murrayl2.github.io/Maze-Game/">here.<
 After downloading the software run "MazeGame.Java" to start the game.  
 <br>  
 
-## Usage <a name="usage"></a>  
+## Instructions  <a name="Instructions "></a>  
 
 ### Step 1:
 
-Open the file "run.bat".  If a warning pops up, select "run" or "open anyway".
+Open the file named "MazeGame.Java".
 
 ### Step 2:
 
-You will be prompted to enter your name, do so and press ENTER.
+You will be prompted to type "up", "down", "left", "right", or "quit". Do so and press ENTER.
 ```java
-Enter player name: Troy //sets player name to Troy
+Type up, down, left, right or quit.
 ```
 
 ### Step 3:
