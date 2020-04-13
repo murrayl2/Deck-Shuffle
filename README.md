@@ -17,7 +17,7 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 
 The code my be downloaded <a href="https://murrayl2.github.io/Maze-Game/">here.</a>
 
-Run "MazeGame.Java" to start the game.  
+After downloading the software run "MazeGame.Java" to start the game.  
 <br>  
 
 ## Usage <a name="usage"></a>  
