@@ -42,11 +42,11 @@ Open the file named "MazeGame.Java".
 
 ### Step 2:
 
-You will be prompted to type your preferred difficultly.Type "easy" or "hard".
+You will be prompted to type your preferred difficultly. Type "easy" or "hard".
 
 ### Step 3:
 
-You will be prompted to type "up", "down", "left", "right", or "quit". Do so and press ENTER.
+You will be prompted to type "up", "down", "left", "right", or "quit". Do so and press Enter.
 ```java
 Type up, down, left, right or quit.
 ```
