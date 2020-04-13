@@ -61,14 +61,14 @@ Continue entering throws until the game ends.
 <br>  
 
 ## FAQ <a name="FAQ"></a>  
-* Are the mazes randomized?
-No, there are only 2 types of mazes and they do not change.
+Q: Are the mazes randomized?
+* No, there are only 2 types of mazes and they do not change.
 
-* How do I quit the game if I can't figure out how to reach the goal?
-Type "quit" when asked for a direction.
+Q: How do I quit the game if I can't figure out how to reach the goal?
+* Type "quit" when asked for a direction.
 
-* Is there a time limit?
-No, feel free to take as much time as nessary.
+Q: Is there a time limit?
+* No, feel free to take as much time as nessary.
 <br>  
 
 ## Contributing <a name="con"></a>  
