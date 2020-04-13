@@ -29,7 +29,7 @@ int moves = 0;
 
 ## Installation <a name="install"></a>  
 
-The code my be downloaded <a href="https://github.com/murrayl2/Maze-Game/blob/master/MazeGame.java">here.</a>
+The code my be downloaded <a href="https://github.com/murrayl2/Maze-Game">here.</a>
 
 After downloading the software run "MazeGame.Java" to start the game.  
 <br>  
