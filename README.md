@@ -61,10 +61,14 @@ Continue entering throws until the game ends.
 <br>  
 
 ## FAQ <a name="FAQ"></a>  
-* You can exit the game at any time by pressing CTRL-C and then Y.
-* The game starts from Step 1 upon finishing a game.
-* You can only play against the computer, which throws out a random move for each turn.
-* A simplified version of this readme file is included in the download.  
+* Are the mazes randomized?
+No, there are only 2 types of mazes and they do not change.
+
+* How do I quit the game if I can't figure out how to reach the goal?
+Type "quit" when asked for a direction.
+
+* Is there a time limit?
+No, feel free to take as much time as nessary.
 <br>  
 
 ## Contributing <a name="con"></a>  
