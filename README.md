@@ -1,7 +1,7 @@
 # Maze-Game <a name="intro"></a>  
-Welcome to my Maze-Game. Try to get to the end!
+Hello and welcome to my Maze-Game. Try and get to the end!
 
-Repository page: <a href="https://github.com/murrayl2/Maze-Game">here.</a>
+<img src="https://www.wikihow.com/images/thumb/4/40/Draw-a-Basic-Maze-Step-11.jpg/aid1126872-v4-728px-Draw-a-Basic-Maze-Step-11.jpg.webp">
 
 <br>  
 
