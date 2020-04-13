@@ -68,10 +68,8 @@ Q: Is there a time limit?
 <br>  
 
 ## Contributing <a name="con"></a>  
-Was there an issue with the game? 
-make a note of it [here](https://github.com/murrayl2/Maze-Game/issues)
-
-Source code available [here](https://github.com/JDBrendel159/Rock-Paper-Scissors)  
+Any ideas to make this game better?
+* Here is the [Source code](https://github.com/JDBrendel159/Rock-Paper-Scissors)
 <br>  
 
 ## Support <a name="support"></a>  
