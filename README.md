@@ -3,6 +3,19 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 
 <img src="https://www.wikihow.com/images/thumb/4/40/Draw-a-Basic-Maze-Step-11.jpg/aid1126872-v4-728px-Draw-a-Basic-Maze-Step-11.jpg.webp">
 
+Here is a piece of code showing the steps Maze-Game will go through while you are playing.
+```java
+int moves = 0;
+
+        while (!playerAtGoal())
+        {
+            printMaze();
+            System.out.print("Type up, down, left, right or quit.\n");
+            moveScanner = new Scanner(System.in);
+            String move = moveScanner.nextLine();
+            makeMove(move);
+            moves++;
+```
 <br>  
 
 ## Features <a name="features"></a>  
@@ -35,29 +48,7 @@ Type up, down, left, right or quit.
 
 ### Step 3:
 
-Type your desired amount of rounds (in digits) and press ENTER. This can be any odd number greater than zero.
-```java
-Enter player name: Troy //sets player name to Troy
-How many rounds would you like to play?: 1 //This will tell the game to play a best of 1 round
-```
-### Step  4:
-
-Perform your throw by typing in the sign’s corresponding digit and pressing ENTER.
-```java
-Enter player name: Troy //sets player name to Troy
-How many rounds would you like to play?: 1 //This will set the game to 1 round
-
-Enter your throw (0=Rock, 1=Paper, 2=Scissors): 1 //I have thrown paper against the computer
-Troy throws PAPER
-The Computer throws ROCK
-Troy wins!
-
-Troy: 1
-Computer: 0
-```
-### Step 5:
-
-Continue entering throws until the game ends.  
+Continue moving until you reach the goal or quit by typing "quit".  
 <br>  
 
 ## FAQ <a name="FAQ"></a>  
