@@ -3,7 +3,7 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 
 <img src="https://www.wikihow.com/images/thumb/4/40/Draw-a-Basic-Maze-Step-11.jpg/aid1126872-v4-728px-Draw-a-Basic-Maze-Step-11.jpg.webp">
 
-Here is a piece of code showing the steps Maze-Game will go through while you are playing.
+Here is a piece of code showing the steps MazeGame.java will go through while playing the game.
 ```java
 int moves = 0;
 
@@ -15,6 +15,7 @@ int moves = 0;
             String move = moveScanner.nextLine();
             makeMove(move);
             moves++;
+        }
 ```
 <br>  
 
@@ -41,12 +42,16 @@ Open the file named "MazeGame.Java".
 
 ### Step 2:
 
+You will be prompted to type your preferred difficultly.Type "easy" or "hard".
+
+### Step 3:
+
 You will be prompted to type "up", "down", "left", "right", or "quit". Do so and press ENTER.
 ```java
 Type up, down, left, right or quit.
 ```
 
-### Step 3:
+### Step 4:
 
 Continue moving until you reach the goal or quit by typing "quit".  
 <br>  
