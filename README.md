@@ -87,9 +87,10 @@ If the batch file fails to execute, you may need to update your java installatio
 <br>  
 
 ## Contributing <a name="con"></a>  
-Source code located [here](https://github.com/JDBrendel159/Rock-Paper-Scissors)
+Was their an issue with the game? 
+make a note of it [here](https://github.com/murrayl2/Maze-Game/issues)
 
-Feel free to submit a pull request!  
+Source code available [here](https://github.com/JDBrendel159/Rock-Paper-Scissors)  
 <br>  
 
 ## Support <a name="support"></a>  
@@ -99,4 +100,4 @@ murrayl@appstate.edu
 <br>  
 
 ## License <a name="license"></a>  
-[Infomation for the license](https://choosealicense.com/licenses/mit/)
+Information for the [license](https://choosealicense.com/licenses/mit/)
