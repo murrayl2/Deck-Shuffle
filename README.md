@@ -1,4 +1,4 @@
-# Deck-Shuffling <a name="intro"></a>  
+# Maze-Game <a name="intro"></a>  
 Welcome to my simple Rock, Paper, & Scissors game
 
 The repository page can be found <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors">here.</a>
