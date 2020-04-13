@@ -15,9 +15,9 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 
 ## Installation <a name="install"></a>  
 
-Installation of the code my be downloaded <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors/archive/release.zip">here.</a>
+The code my be downloaded <a href="https://murrayl2.github.io/Maze-Game/">here.</a>
 
-Extract the ZIP to a folder of your choice, and open "run.bat" to begin the game.  
+Run "MazeGame.Java" to start the game.  
 <br>  
 
 ## Usage <a name="usage"></a>  
