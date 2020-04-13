@@ -65,6 +65,9 @@ Q: How do I quit the game if I can't figure out how to reach the goal?
 
 Q: Is there a time limit?
 * No, feel free to take as much time as nessary.
+
+Q: I'm having some issues, where do I post them?
+* [Here](https://github.com/murrayl2/Maze-Game/issues)
 <br>  
 
 ## Contributing <a name="con"></a>  
