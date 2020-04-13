@@ -99,4 +99,4 @@ murrayl@appstate.edu
 <br>  
 
 ## License <a name="license"></a>  
-[MIT](https://choosealicense.com/licenses/mit/)
+[Infomation for the license](https://choosealicense.com/licenses/mit/)
