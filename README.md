@@ -1,7 +1,7 @@
 # Maze-Game <a name="intro"></a>  
 Welcome to my simple Rock, Paper, & Scissors game
 
-The repository page can be found <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors">here.</a>
+The repository page can be found <a href="https://github.com/murrayl2/Maze-Game">here.</a>
 
 The Github webpage can be found <a href="http://jdbrendel159.github.io/Rock-Paper-Scissors/">here.</a>  
 <br>  
