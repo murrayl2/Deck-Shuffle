@@ -29,7 +29,7 @@ int moves = 0;
 
 ## Installation <a name="install"></a>  
 
-The code my be downloaded <a href="https://murrayl2.github.io/Maze-Game/">here.</a>
+The code my be downloaded <a href="https://github.com/murrayl2/Maze-Game/blob/master/MazeGame.java">here.</a>
 
 After downloading the software run "MazeGame.Java" to start the game.  
 <br>  
@@ -69,7 +69,7 @@ Q: Is there a time limit?
 
 ## Contributing <a name="con"></a>  
 Any ideas to make this game better?
-* Here is the [Source code](https://github.com/JDBrendel159/Rock-Paper-Scissors)
+* Here is the [Source code](https://github.com/murrayl2/Maze-Game/blob/master/MazeGame.java)
 <br>  
 
 ## Support <a name="support"></a>  
