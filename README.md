@@ -7,13 +7,15 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 
 ## Features <a name="features"></a>  
 * 2 levels of difficulty. Easy and Hard.
+
 * Leaves a trail of bread crumbs so the player knows where they have already been.
+
 * Counts how many moves it took to reach the goal.  
 <br>  
 
 ## Installation <a name="install"></a>  
 
-The game can be downloaded as a ZIP using <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors/archive/release.zip">this link.</a>
+Installation of the code my be downloaded <a href="https://github.com/JDBrendel159/Rock-Paper-Scissors/archive/release.zip">here.</a>
 
 Extract the ZIP to a folder of your choice, and open "run.bat" to begin the game.  
 <br>  
