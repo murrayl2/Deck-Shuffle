@@ -6,10 +6,9 @@ Hello and welcome to my Maze-Game. Try and get to the end!
 <br>  
 
 ## Features <a name="features"></a>  
-* Name your player whatever you want.
-* Play as many games as you want with any amount of rounds.
-* A large variety of strategies to choose from.
-* Ties do not count towards round total.  
+* 2 levels of difficulty. Easy and Hard.
+* Leaves a trail of bread crumbs so the player knows where they have already been.
+* Counts how many moves it took to reach the goal.  
 <br>  
 
 ## Installation <a name="install"></a>  
